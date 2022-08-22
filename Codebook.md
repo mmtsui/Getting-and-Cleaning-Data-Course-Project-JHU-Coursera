@@ -24,31 +24,31 @@ These are the conditions each participant completed and it's respective codings.
 ## Variables
 These are the variables or feature signals selected for the database. The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. Measures for each of these variables were collected for every subject during the performance of an activity. 
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
+- tBodyAccJerk-XYZ
+- tBodyGyro-XYZ
+- tBodyGyroJerk-XYZ
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
-mean(): Mean value
-std(): Standard deviation
+- mean(): Mean value
+- std(): Standard deviation
 
 Abbreviations: 
-t = "time"; These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
-f = "frequency"; Indicates frequency domain signals.
-Mag = "magnitude"
-Acc = "Accelerometer"
-Gyro = "Gyroscope"
+- t = "time"; These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
+- f = "frequency"; Indicates frequency domain signals.
+- Mag = "magnitude"
+- Acc = "Accelerometer"
+- Gyro = "Gyroscope"
